@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 I’m an Azure DevOps and Automation Engineer. I have lived in Shanghai, Edinburgh, Melbourne and now in Sydney.
  
-💙 Currently, I am passionate about cloud solutions and devote myself to Azure and AWS cloud services.
+💙 I am passionate about cloud solutions and devote myself to Azure and AWS cloud services.
 
 🌱 I'm currently learning Azure through doing hands-on labs with ACG and Azure DevOps labs.
 
