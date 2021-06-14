@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 😄 I travelled to over 15 countries to get a better understanding of different cultures.
 
-🌿 When I am not working and learning, I am playing board games and training my kitty to sit, shake paw and lying down.
+🌿 When I am not working and learning, I am playing board games and training my kitty 😸 to sit, shake paw 👋 and lying down.
