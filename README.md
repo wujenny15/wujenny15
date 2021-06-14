@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **wujenny15/wujenny15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ## I’m an Azure DevOps and Automation Engineer. I have lived in Shanghai, Edinburgh, Melbourne and now in Sydney.
+🔭 I’m an Azure DevOps and Automation Engineer. I have lived in Shanghai, Edinburgh, Melbourne and now in Sydney.
  
 💙 Currently, I am passionate about cloud solutions and devote myself to Azure and AWS cloud services.
 
