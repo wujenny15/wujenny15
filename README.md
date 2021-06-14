@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  
 💙 Currently, I am passionate about cloud solutions and devote myself to Azure and AWS cloud services.
 
-🌱 I'm currently learning Azure through doing hands-on labs in my spare time with ACG and Azure DevOps labs.
+🌱 I'm currently learning Azure through doing hands-on labs with ACG and Azure DevOps labs.
 
 😄 I travelled to over 15 countries to get a better understanding of different cultures.
 
