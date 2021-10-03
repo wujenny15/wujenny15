@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Quotefancy-1700728-3840x2160](https://user-images.githubusercontent.com/30709331/135740340-2523508f-6ee5-43d7-ab73-a2b877b02443.jpg)
 
 <!--
 **wujenny15/wujenny15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +20,9 @@ Here are some ideas to get you started:
  
 💙 I am passionate about cloud solutions and devote myself to Azure and AWS cloud services.
 
-🌱 I'm currently learning Azure through doing hands-on labs with ACG and Azure DevOps labs.
+🌱 I'm currently learning Azure, Aws and Docker.
 
-😄 I travelled to over 15 countries to get a better understanding of different cultures.
+😄 I like to talk to people and travel around the world.
 
 🌿 When I am not working and learning, I am playing board games and training my kitty 😸 to sit and shake paw 👋.
+
