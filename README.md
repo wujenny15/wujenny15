@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  
 💙 I am passionate about cloud solutions and devote myself to Azure and AWS cloud services.
 
-🌱 I'm currently learning Azure, Aws and Docker.
+🌱 I'm currently learning Azure, AWS and Docker.
 
 😄 I like to talk to people and travel around the world.
 
