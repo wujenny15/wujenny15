@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Quotefancy-1700728-3840x2160](https://user-images.githubusercontent.com/30709331/135740340-2523508f-6ee5-43d7-ab73-a2b877b02443.jpg)
+
 
 <!--
 **wujenny15/wujenny15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
